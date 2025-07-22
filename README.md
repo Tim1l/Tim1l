@@ -99,35 +99,20 @@ A comprehensive set of technical and interpersonal skills honed through advanced
 | **Generative AI** | - **Leadership**: CTO at FlirtAGPT, driving the development of innovative AI products for conversational and creative applications. <br> - **Model Design**: Experienced in building and deploying generative AI models, leveraging deep learning frameworks for scalable solutions. <br> - **Product Development**: Skilled in end-to-end AI product lifecycle, from ideation to production deployment, with a focus on user-centric outcomes. <br> - **Innovation**: Applied cross-disciplinary insights from trading and physics to create novel generative AI use cases. |
 | **Soft Skills**    | - **Analytical Thinking**: Leveraged nuclear physics background to tackle complex problems with precision and rigor. <br> - **Problem-Solving**: Developed innovative solutions for trading and AI challenges, balancing performance and scalability. <br> - **Communication**: Effectively translate technical concepts to stakeholders, as demonstrated in client engagements on Upwork and X posts. <br> - **Adaptability**: Successfully transitioned from nuclear physics to data science, mastering diverse tech stacks and domains. <br> - **Collaboration**: Open to partnerships with quant funds and startups, with a track record of delivering tailored solutions. |
 
-## 📊 GitHub Stats & Timeline
-![Stats](https://github-readme-stats.vercel.app/api?username=Tim1l&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim1l&layout=compact&theme=radical&hide_border=true)  
-![Streak](https://streak-stats.demolab.com/?user=Tim1l&theme=radical&hide_border=true)  
+## 📊 Career Timeline
+My journey from nuclear physics to data science, building innovative AI-driven trading systems and generative AI solutions:
 
-**Timeline**:  
-- 2023: Launched BTC Predictor (68% acc)  
-- 2024: RL Agent hits EV 0.72, real-time deploy  
-- 2025: >500 PineScript updates, seeking quant roles  
+- **2021**: Developed first predictive model for gold trend forecasting and built initial forex trading bot, laying the foundation for automated trading systems.  
+- **2022–2023**: Created and managed a TSLab portfolio with 50+ unique algorithms, focusing on crypto futures and rigorous backtesting for performance.  
+- **2023–2024**: Designed hundreds of PineScript v6 strategies for TradingView and advanced predictive models, emphasizing multi-timeframe analysis and robust forecasting.  
+- **2025**: Engineered a high-performance RL trading agent and a state-of-the-art predictive model, deployed in real-time for BTCUSDT trading.  
 
-## 🤝 Connect & Monetize
-- **Quant Funds**: Let's build AI trading systems. DM on LinkedIn/X.  
-- **Hire Me**: Custom RL/predictors/strategies – [Upwork](https://www.upwork.com/freelancers/~01d554f7011bd884f2).  
-- **Sponsor**: Early access to models/code – [Sponsor Now](https://github.com/sponsors/Tim1l).  
-- **Contact**: tim@example.com | Telegram: @tim13l | Open for generative AI collabs @ FlirtAGPT.  
+## 🤝 Connect & Collaborate
+I’m passionate about building cutting-edge AI trading systems and generative AI solutions. Let’s create value together!
 
-Star repos if helpful – more AI trading drops soon! 🚀  
-![Custom Badge](https://img.shields.io/badge/68%25%20BTC%20Acc-Success-green?style=for-the-badge) ![EV Badge](https://img.shields.io/badge/EV%200.72-Profit-blue?style=for-the-badge)
-<!--
-**Tim1l/Tim1l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Quant Funds & Startups**: Partner with me to develop scalable, high-impact trading algorithms and AI models. DM on [LinkedIn](https://www.linkedin.com/in/tim-izmailov-a53524283/) or [X](https://x.com/tim13l).  
+- **Custom Solutions**: Hire me on [Upwork](https://www.upwork.com/freelancers/~01d554f7011bd884f2) for tailored RL agents, predictive models, or trading strategies.  
+- **Sponsorship**: Gain early access to exclusive models and datasets – [Sponsor Now](https://github.com/sponsors/Tim1l).  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Star my repos to stay updated on the latest AI trading innovations! 🚀  
+![BTC Accuracy](https://img.shields.io/badge/68%25%20BTC%20Accuracy-Success-green?style=for-the-badge) ![EV Profit](https://img.shields.io/badge/EV%200.72-Profit-blue?style=for-the-badge)
