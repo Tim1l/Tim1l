@@ -33,28 +33,59 @@ Developed a sophisticated PPO-based reinforcement learning agent for BTC/USD tra
 
 <details>
 <summary><b>BTC Trend Predictor (68% Accuracy, 0.67 F-Score)</b> – Real-Time Multi-Timeframe Forecasts</summary>
-  
-Built a hybrid TCN-LSTM model with MultiHead Attention for predicting the next candle’s direction (4h, 1d, 1w timeframes). Achieves 67-68% accuracy and 0.67 F-score on out-of-sample data, surpassing random baselines by 16-18%, with streaks of 50+ correct predictions. Processes high-frequency OHLCV data via CCXT, computes 20+ technical indicators (RSI, MACD, Bollinger Bands), and applies robust normalization (log1p, tanh) for stable predictions. Deployed 24/7 with rigorous data quality checks (NaN/gap detection, forward-filling).  
-*Tech Stack: Python, TensorFlow, Keras-TCN, Pandas, TA-Lib, CCXT*  
-*Repo: [Crypto BTC Trend Prediction](https://github.com/Tim1l/crypto_btc_trend_prediction) (currently private)*  
-*Engage: Follow my [X profile](https://x.com/tim13l) for live prediction updates or sponsor for access to the full dataset.*  
+
+**Overview**  
+Built a hybrid TCN-LSTM model with MultiHead Attention for predicting the next candle’s direction across 4h, 1d, and 1w timeframes. Achieves 67-68% accuracy and 0.67 F-score on out-of-sample data, surpassing random baselines by 16-18%, with streaks of 50+ correct predictions.
+
+**Key Features**  
+- **Robust Predictions**: Processes high-frequency OHLCV data via CCXT, computing 20+ technical indicators (RSI, MACD, Bollinger Bands).  
+- **Data Pipeline**: Applies log1p and tanh normalization with rigorous NaN/gap detection and forward-filling for stability.  
+- **Deployment**: Runs 24/7, delivering consistent real-time forecasts for multi-timeframe trading.  
+
+**Tech Stack**  
+- Python, TensorFlow, Keras-TCN  
+- Pandas, TA-Lib, CCXT  
+
+**Links**  
+- *Repo*: [Crypto BTC Trend Prediction](https://github.com/Tim1l/crypto_btc_trend_prediction) (currently private)  
+- *Engage*: Follow my [X profile](https://x.com/tim13l) for live prediction updates or sponsor for access to the full dataset.  
 </details>
 
 <details>
 <summary><b>PineScript Strategies (500+ Scripts)</b> – Multi-Timeframe TradingView Systems</summary>
-  
-Crafted 500+ PineScript v6 strategies for TradingView, focusing on multi-timeframe analysis (M15, H1, H4, D1) and market phase decomposition (ADX-based). Features 80+ core strategies with win rates of 55-70% and profit factors of 1.3-2.0, integrated with RL reward shaping. Utilizes RSI, Bollinger Bands, EMA, HMA, and ATR without curve-fitting, ensuring robustness across market conditions. Ready to enhance any trading system with custom strategies.  
-*Tech Stack: PineScript v6*  
-*Repo: [PineScript Strategies](https://github.com/Tim1l/PineCryptoStrategies)*  
-*Monetization: Hire me on [Upwork](https://www.upwork.com/services/product/development-it-custom-pine-script-trading-strategy-automated-adjusted-for-profitability-1888093205491441659?ref=project_share) to develop or optimize your trading strategies.*  
+
+**Overview**  
+Crafted 500+ PineScript v6 strategies for TradingView, focusing on multi-timeframe analysis (M15, H1, H4, D1) and ADX-based market phase decomposition. Includes 80+ core strategies with win rates of 55-70% and profit factors of 1.3-2.0, integrated with RL reward shaping.
+
+**Key Features**  
+- **Robust Design**: Utilizes RSI, Bollinger Bands, EMA, HMA, and ATR without curve-fitting for market adaptability.  
+- **Multi-Timeframe**: Combines M15 signals with H1/H4/D1 context for high-signal entries.  
+- **Customization**: Ready to enhance any trading system with tailored, high-performance strategies.  
+
+**Tech Stack**  
+- PineScript v6  
+
+**Links**  
+- *Repo*: [PineScript Strategies](https://github.com/Tim1l/PineCryptoStrategies)  
+- *Monetization*: Hire me on [Upwork](https://www.upwork.com/services/product/development-it-custom-pine-script-trading-strategy-automated-adjusted-for-profitability-1888093205491441659?ref=project_share) to develop or optimize your trading strategies.  
 </details>
 
 <details>
 <summary><b>Trading Bots Portfolio (50+ Scripts)</b> – Crypto Futures</summary>
-  
-Designed and deployed 50+ trading bots for BTCUSDT futures, achieving 20-25% annual returns with 10% drawdown while managing a $330K portfolio. Focused on diverse trading ideas, rigorously backtested for performance.  
-*Tech Stack: TSLab, Backtrader*  
-*Details: Demonstrates my experience in building and managing automated trading systems for crypto futures.*  
+
+**Overview**  
+Designed and deployed 50+ trading bots for BTC/USDT futures, achieving 20-25% annual returns with 10% drawdown while managing a $330K portfolio. Focused on diverse, rigorously backtested trading strategies.
+
+**Key Features**  
+- **Performance**: Delivered consistent returns through automated systems optimized for crypto futures.  
+- **Backtesting**: Employed rigorous testing to ensure strategy robustness across market conditions.  
+- **Experience**: Demonstrates deep expertise in building and managing high-stakes trading systems.  
+
+**Tech Stack**  
+- TSLab, Backtrader  
+
+**Details**  
+- Showcases my experience in developing and managing automated trading systems for crypto futures.  
 </details>
 
 ## 🛠️ Skills Stack
