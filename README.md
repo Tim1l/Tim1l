@@ -12,11 +12,23 @@ Star/fork these – sponsors get exclusive models & updates. Hire me on Upwork f
 
 <details>
 <summary><b>RL Trading Agent for BTC/USD (EV 0.72)</b> – High-Performance Reinforcement Learning</summary>
-  
-Developed a sophisticated PPO-based reinforcement learning agent for BTC/USD trading on a 15-minute timeframe, leveraging a custom Gym environment with a proprietary reward function. Integrates 80+ high-signal entry points (TP=SL=ATR, win rate >60% in backtests) derived from multi-timeframe market patterns (M15, H1, H4, D1). Features a TCN feature extractor (64-256 channels, dilations [1,2,4,8], kernel=10) and action masking for compliance, achieving robust profitability from epoch 1 (32% profit at 10% drawdown in bullish phases). Optimized for scalability up to $15M without slippage, with ongoing enhancements for balanced long/short trading.  
-*Tech Stack: Python, PyTorch, Stable-Baselines3, Custom TCN, Pandas, NumPy, Bybit/MT5 APIs*  
-*Repo: [RL BTC Trading Agent](https://github.com/Tim1l/rl-btc-trading-agent)*  
-*Monetization: Contact me to customize this agent for your fund’s trading strategy.*  
+
+**Overview**  
+Developed a sophisticated PPO-based reinforcement learning agent for BTC/USD trading on a 15-minute timeframe, leveraging a custom Gym environment with a proprietary reward function. Integrates 80+ high-signal entry points (TP=SL=ATR, win rate >60% in backtests) derived from multi-timeframe market patterns (M15, H1, H4, D1).
+
+**Key Features**  
+- **Advanced Architecture**: Utilizes a TCN feature extractor (64-256 channels, dilations [1,2,4,8], kernel=10) with action masking for trade compliance.  
+- **Performance**: Achieves robust profitability from epoch 1 (32% profit at 10% drawdown in bullish phases).  
+- **Scalability**: Optimized for up to $15M without slippage, with ongoing enhancements for balanced long/short trading.  
+
+**Tech Stack**  
+- Python, PyTorch, Stable-Baselines3  
+- Custom TCN, Pandas, NumPy  
+- Bybit/MT5 APIs for real-time execution  
+
+**Links**  
+- *Repo*: [RL BTC Trading Agent](https://github.com/Tim1l/rl-btc-trading-agent)  
+- *Monetization*: Contact me to customize this agent for your fund’s trading strategy.  
 </details>
 
 <details>
