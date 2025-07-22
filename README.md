@@ -1,5 +1,5 @@
 <!-- Waving Hand GIF for dynamic intro -->
-![Waving](final_rl_trading_anim.gif) 
+![Waving](rl_trading.gif) 
 
 # 👋 Tim Izmailov – Quant Data Scientist & CTO @ FlirtAGPT
 
