@@ -1,7 +1,7 @@
 <!-- Waving Hand GIF for dynamic intro -->
 ![Waving](final_rl_trading_anim.gif) 
 
-# 👋 Tim Izmailov – Senior Data Scientist & CTO @ FlirtAGPT
+# 👋 Tim Izmailov – Quantitative Data Scientist & CTO FlirtAGPT
 
 AI leader in trading systems & generative AI. Built RL trading agent (EV 0.72), BTC trend predictor (68% acc, 50+ streak), >500 PineScript strategies, >100 scripts in various platforms. Managed $330K portfolio (+20-25% return). Seeking quant fund roles – let's collaborate on AI trading! 🚀
 
