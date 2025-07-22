@@ -1,5 +1,5 @@
 <!-- Waving Hand GIF for dynamic intro -->
-![Waving](https://media.giphy.com/media/hvRJCLFzcasrR7JO9b/giphy.gif?cid=ecf05e47oq8h4j0k0z0z0z0z0z0z0z0z0z0z0z0z&rid=giphy.gif) 
+![Waving](final_rl_trading_anim.gif) 
 
 # 👋 Tim Izmailov – Senior Data Scientist & CTO @ FlirtAGPT
 
