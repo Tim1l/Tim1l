@@ -12,7 +12,7 @@ Star/fork these – sponsors get exclusive models & updates. Hire me on Upwork f
 
 <details>
 <summary><b>RL Trading Agent for BTCUSDT (EV >0.72)</b> – High-Performance Reinforcement Learning</summary>
-** **
+
 **Overview**  
 Developed a sophisticated PPO-based reinforcement learning agent for BTC/USD trading on a 15-minute timeframe, leveraging a custom Gym environment with a proprietary reward function. Integrates 80+ high-signal entry points (TP(ATR)=SL(ATR), win rate >60% in backtests) derived from multi-timeframe market patterns (M15, H1, H4, D1).
 
