@@ -1,9 +1,9 @@
 <!-- Waving Hand GIF for dynamic intro -->
 ![Waving](final_rl_trading_anim.gif) 
 
-# 👋 Tim Izmailov – Quantitative Data Scientist & CTO FlirtAGPT
+# 👋 Tim Izmailov – Quantitative Data Scientist & CTO @ FlirtAGPT
 
-AI leader in trading systems & generative AI. Built RL trading agent (EV 0.72), BTC trend predictor (68% acc, 50+ streak), >500 PineScript strategies, >100 scripts in various platforms. Managed $330K portfolio (+20-25% return). Seeking quant fund roles – let's collaborate on AI trading! 🚀
+Passionate data scientist with a nuclear physics background, transitioned into building cutting-edge AI-driven trading systems and generative AI solutions. Developed a high-performance RL trading agent (EV >0.72), a BTC trend predictor (68% accuracy in the trend prediction), and over 500 PineScript strategies, alongside managed a $330K portfolio with 25-30% annual returns. Ready to deliver scalable, high-impact AI solutions for quant funds and innovative projects. 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tim-izmailov-a53524283/) [![X](https://img.shields.io/badge/X-Follow-black?logo=x&style=for-the-badge)](https://x.com/tim13l) [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-green?logo=upwork&style=for-the-badge)](https://www.upwork.com/freelancers/~01d554f7011bd884f2) [![Sponsor](https://img.shields.io/github/sponsors/Tim1l?logo=github&style=for-the-badge&color=pink)](https://github.com/sponsors/Tim1l) [![Trophies](https://github-profile-trophy.vercel.app/?username=Tim1l&theme=radical&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
