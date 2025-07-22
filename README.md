@@ -11,19 +11,19 @@ Passionate data scientist with a nuclear physics background, transitioned into b
 Star/fork these – sponsors get exclusive models & updates. Hire me on Upwork for custom versions!
 
 <details>
-<summary><b>RL Trading Agent for BTC/USD (EV 0.72)</b> – High-Performance Reinforcement Learning</summary>
-
+<summary><b>RL Trading Agent for BTCUSDT (EV >0.72)</b> – High-Performance Reinforcement Learning</summary>
+** **
 **Overview**  
-Developed a sophisticated PPO-based reinforcement learning agent for BTC/USD trading on a 15-minute timeframe, leveraging a custom Gym environment with a proprietary reward function. Integrates 80+ high-signal entry points (TP=SL=ATR, win rate >60% in backtests) derived from multi-timeframe market patterns (M15, H1, H4, D1).
+Developed a sophisticated PPO-based reinforcement learning agent for BTC/USD trading on a 15-minute timeframe, leveraging a custom Gym environment with a proprietary reward function. Integrates 80+ high-signal entry points (TP(ATR)=SL(ATR), win rate >60% in backtests) derived from multi-timeframe market patterns (M15, H1, H4, D1).
 
 **Key Features**  
 - **Advanced Architecture**: Utilizes a TCN feature extractor (64-256 channels, dilations [1,2,4,8], kernel=10) with action masking for trade compliance.  
 - **Performance**: Achieves robust profitability from epoch 1 (32% profit at 10% drawdown in bullish phases).  
-- **Scalability**: Optimized for up to $15M without slippage, with ongoing enhancements for balanced long/short trading.  
+- **Scalability**: Optimized for any crypto exchange or MT5 broker without slippage for large enough portfolio.  
 
 **Tech Stack**  
 - Python, PyTorch, Stable-Baselines3  
-- Custom TCN, Pandas, NumPy  
+- Custom TCN, Pandas, NumPy, TA-Lib
 - Bybit/MT5 APIs for real-time execution  
 
 **Links**  
@@ -35,10 +35,10 @@ Developed a sophisticated PPO-based reinforcement learning agent for BTC/USD tra
 <summary><b>BTC Trend Predictor (68% Accuracy, 0.67 F-Score)</b> – Real-Time Multi-Timeframe Forecasts</summary>
 
 **Overview**  
-Built a hybrid TCN-LSTM model with MultiHead Attention for predicting the next candle’s direction across 4h, 1d, and 1w timeframes. Achieves 67-68% accuracy and 0.67 F-score on out-of-sample data, surpassing random baselines by 16-18%, with streaks of 50+ correct predictions.
+Built a hybrid TCN-LSTM model with MultiHead Attention for predicting the next candle’s direction across 4h, 1d, and 1w timeframes. Achieves 67-68% accuracy and 0.67 F-score on out-of-sample data, surpassing random baselines by 16-18%, with streaks of 95+ correct predictions.
 
 **Key Features**  
-- **Robust Predictions**: Processes high-frequency OHLCV data via CCXT, computing 20+ technical indicators (RSI, MACD, Bollinger Bands).  
+- **Robust Predictions**: Processes high-frequency OHLCV data via CCXT, computing 20 technical indicators (RSI, MACD, Bollinger Bands).  
 - **Data Pipeline**: Applies log1p and tanh normalization with rigorous NaN/gap detection and forward-filling for stability.  
 - **Deployment**: Runs 24/7, delivering consistent real-time forecasts for multi-timeframe trading.  
 
@@ -55,7 +55,7 @@ Built a hybrid TCN-LSTM model with MultiHead Attention for predicting the next c
 <summary><b>PineScript Strategies (500+ Scripts)</b> – Multi-Timeframe TradingView Systems</summary>
 
 **Overview**  
-Crafted 500+ PineScript v6 strategies for TradingView, focusing on multi-timeframe analysis (M15, H1, H4, D1) and ADX-based market phase decomposition. Includes 80+ core strategies with win rates of 55-70% and profit factors of 1.3-2.0, integrated with RL reward shaping.
+Crafted 500+ PineScript v6 strategies for TradingView, focusing on multi-timeframe analysis (M15, H1, H4, D1) and market phase decomposition. Includes 80+ core strategies with win rates of 55-75% and sharpe ratio of 1.3-1.8.
 
 **Key Features**  
 - **Robust Design**: Utilizes RSI, Bollinger Bands, EMA, HMA, and ATR without curve-fitting for market adaptability.  
@@ -74,7 +74,7 @@ Crafted 500+ PineScript v6 strategies for TradingView, focusing on multi-timefra
 <summary><b>Trading Bots Portfolio (50+ Scripts)</b> – Crypto Futures</summary>
 
 **Overview**  
-Designed and deployed 50+ trading bots for BTC/USDT futures, achieving 20-25% annual returns with 10% drawdown while managing a $330K portfolio. Focused on diverse, rigorously backtested trading strategies.
+Designed and deployed 50+ trading bots for BTCUSDT futures, achieving 20-25% annual returns with 10% drawdown while managing a $330K portfolio. Focused on diverse, rigorously backtested trading strategies.
 
 **Key Features**  
 - **Performance**: Delivered consistent returns through automated systems optimized for crypto futures.  
