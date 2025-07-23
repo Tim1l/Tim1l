@@ -115,4 +115,5 @@ I’m passionate about building cutting-edge AI trading systems and generative A
 - **Sponsorship**: Gain early access to exclusive models and datasets – [Sponsor Now](https://github.com/sponsors/Tim1l).  
 
 Star my repos to stay updated on the latest AI trading innovations! 🚀  
+![BTC Predictor](https://img.shields.io/badge/BTC%20Predictor-68%25%20Accuracy%20%7C%200.67%20F--Score-green?style=for-the-badge) ![RL Agent](https://img.shields.io/badge/RL%20Agent-EV%200.72%20%7C%2032%25%20Profit-blue?style=for-the-badge)
 [![Sponsor Me](https://img.shields.io/badge/Sponsor-Me-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Tim1l)
