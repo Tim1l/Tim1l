@@ -116,3 +116,4 @@ I’m passionate about building cutting-edge AI trading systems and generative A
 
 Star my repos to stay updated on the latest AI trading innovations! 🚀  
 ![BTC trend prediction Accuracy](https://img.shields.io/badge/68%25%20BTC%20Accuracy-Success-green?style=for-the-badge) ![EV >](https://img.shields.io/badge/EV%200.72-Profit-blue?style=for-the-badge)
+[![Sponsor Me](https://img.shields.io/badge/Sponsor-Me-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Tim1l)
