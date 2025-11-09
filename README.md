@@ -105,7 +105,119 @@ My journey from nuclear physics to data science, building innovative AI-driven t
 - **2021**: Developed first predictive model for gold trend forecasting and built initial forex trading bot, laying the foundation for automated trading systems.  
 - **2022–2023**: Created and managed a TSLab portfolio with 50+ unique algorithms, focusing on crypto futures and rigorous backtesting for performance.  
 - **2023–2024**: Designed hundreds of PineScript v6 strategies for TradingView and advanced predictive models, emphasizing multi-timeframe analysis and robust forecasting.  
-- **2025**: Engineered a high-performance RL trading agent and a state-of-the-art predictive model, deployed in real-time for BTCUSDT trading.  
+- **2025**: Engineered a high-performance RL trading agent and a state-of-the-art predictive model, deployed in real-time for BTCUSDT trading.
+
+## 📈 GitHub Activity & Contributions
+Beyond coding, I actively contribute to the developer community:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tim1l&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim1l&layout=compact&theme=radical&hide_border=true)
+
+**What I Do Beyond Code:**
+- 🌟 **Open Source Sharing**: Publish high-quality projects with detailed documentation and real-world applications
+- 📝 **Technical Documentation**: Write comprehensive READMEs with clear setup instructions, architecture diagrams, and use cases
+- 🔍 **Code Reviews**: Provide thoughtful feedback on pull requests in trading and ML communities
+- 💬 **GitHub Discussions**: Engage in technical discussions about RL, trading strategies, and ML architectures
+- 📚 **Knowledge Sharing**: Share insights on [X/Twitter](https://x.com/tim13l) about market predictions and AI developments
+- 🎯 **Issue Management**: Maintain clear issue templates and respond promptly to community questions
+- 🏆 **Project Showcasing**: Create visual demos (GIFs, charts) to make technical work accessible
+
+## 🤝 Community Engagement & Professional Development
+
+### Active Learning & Sharing
+- **Continuous Learning**: Stay current with latest RL techniques, trading strategies, and ML architectures
+- **Real-World Application**: Deploy models in production environments, sharing lessons learned
+- **Mentoring**: Open to guiding aspiring quant developers through [Upwork](https://www.upwork.com/freelancers/~01d554f7011bd884f2) collaborations
+- **Transparency**: Share both successes (68% accuracy) and realistic metrics (drawdowns, win rates)
+
+### Building Professional Reputation
+- **Consistent Updates**: Regular commits and project updates demonstrate active development
+- **Quality Over Quantity**: Focus on impactful, well-documented projects rather than numerous small repos
+- **Professional Profile**: Maintain clear bio, professional photo, and comprehensive project descriptions
+- **Cross-Platform Presence**: LinkedIn for professional networking, X for technical insights, Upwork for client work
+- **Monetization Options**: GitHub Sponsors for exclusive access, encouraging community support
+
+### Best Practices I Follow
+- ✅ Write clean, commented code with proper version control
+- ✅ Include comprehensive READMEs with problem statement, solution, and results
+- ✅ Add badges for quick project status visibility (accuracy, performance metrics)
+- ✅ Use GitHub Projects and Issues for transparent development tracking
+- ✅ Pin best repositories to profile for immediate visibility
+- ✅ Keep projects updated with recent activity and maintenance
+- ✅ Respond to community engagement (stars, forks, questions)
+
+## 💡 How to Build Your GitHub Professional Brand (Beyond Code)
+*Actionable steps for developers looking to promote themselves as professionals on GitHub:*
+
+### 1. **Profile Optimization**
+- ✨ Create a README profile repository (username/username) with your bio, skills, and showcase projects
+- 🖼️ Add a professional photo and complete bio with your expertise areas
+- 🔗 Link all professional profiles (LinkedIn, X/Twitter, personal website, portfolio)
+- 📍 Add location and availability for work/collaboration
+
+### 2. **Documentation Excellence**
+- 📝 Write detailed READMEs for every project (problem, solution, tech stack, results, setup instructions)
+- 🎥 Add GIFs, screenshots, or videos demonstrating your projects in action
+- 📊 Include performance metrics, benchmarks, and real-world results
+- 🏗️ Create architecture diagrams and flowcharts for complex systems
+- 📚 Add CONTRIBUTING.md, CODE_OF_CONDUCT.md for community projects
+
+### 3. **Visual & Metrics Enhancement**
+- 🏅 Use shields.io badges to show build status, test coverage, version, downloads
+- 📈 Add GitHub stats widgets to your profile README
+- 🎯 Create custom badges showcasing your key metrics (accuracy, performance, returns)
+- 📷 Pin your 6 best repositories to your profile for immediate visibility
+
+### 4. **Community Engagement**
+- 💬 Participate in GitHub Discussions in your domain
+- 🔍 Contribute to open-source projects (even small PRs help build reputation)
+- ⭐ Star and fork projects you find valuable, engage with their communities
+- 🐛 Report issues with clear reproduction steps and proposed solutions
+- ✅ Review pull requests and provide constructive feedback
+
+### 5. **Consistent Activity**
+- 📅 Maintain a green contribution graph with regular commits
+- 🔄 Update projects with improvements, bug fixes, and new features
+- 📰 Use GitHub Releases to announce major updates
+- 🏷️ Add relevant topics/tags to repositories for discoverability
+- 🗓️ Keep projects maintained (respond to issues within reasonable time)
+
+### 6. **Professional Showcase**
+- 🎯 Focus on quality over quantity – fewer excellent projects beat many mediocre ones
+- 🌟 Highlight real-world impact: user metrics, business value, performance improvements
+- 📖 Write blog posts or technical articles about your projects (link from README)
+- 🎤 Give talks or create video tutorials about your work
+- 💼 Add case studies showing problem-solving approach and results
+
+### 7. **Networking & Opportunities**
+- 🤝 Enable GitHub Sponsors for monetization opportunities
+- 💰 Offer consulting services (link to Upwork, Toptal, or personal site)
+- 🔗 Cross-promote on LinkedIn, X/Twitter with your GitHub work
+- 📧 Add contact information for collaboration opportunities
+- 🌐 Build a personal brand across platforms with consistent messaging
+
+### 8. **Technical Credibility**
+- 🔒 Follow security best practices (no hardcoded credentials, use .gitignore)
+- ✅ Add CI/CD pipelines (GitHub Actions) showing automated testing
+- 📦 Publish packages to npm, PyPI, or other registries
+- 🧪 Include test coverage and quality metrics
+- 📜 Choose appropriate open-source licenses
+
+### 9. **Specialization & Authority**
+- 🎓 Showcase domain expertise (AI/ML, trading systems, specific frameworks)
+- 🏆 List certifications, courses, or achievements in your profile
+- 📊 Create comparison benchmarks with existing solutions
+- 🔬 Share research, papers, or novel approaches
+- 💡 Solve real problems with practical, deployable solutions
+
+### 10. **Long-term Strategy**
+- 🎯 Define your niche and become known for specific expertise
+- 📈 Track your profile views and engagement metrics
+- 🔄 Regularly update your profile with latest achievements
+- 🌱 Help others learn through examples, tutorials, and mentoring
+- 🚀 Build a portfolio that tells a story of your professional growth
+
+**Remember**: GitHub is not just a code storage – it's your living portfolio, professional network, and opportunity platform. Every commit, PR, issue, and discussion contributes to your professional brand!
 
 ## 🤝 Connect & Collaborate
 I’m passionate about building cutting-edge AI trading systems and generative AI solutions. Let’s create value together!
