@@ -16,7 +16,7 @@ Technical leadership and hands-on AI engineering for a product with a **design t
 
 - **Technical direction:** lead AI engineering priorities and delivery, with sole responsibility for the product's AI components.
 - **AI capabilities:** personally built components covering conversational behavior, memory, multilingual interactions, and image, video, and voice generation.
-- **GPU and inference engineering:** own model selection and GPU deployment decisions, balancing quality, response latency, resource requirements, and operating cost.
+- **GPU and inference engineering:** model selection, GPU deployment, and inference optimization including KV-cache reuse, balancing quality, response latency, resource requirements, and operating cost.
 - **Quality and integration:** established evaluation with human testers and AI agents and coordinated integration with backend and design teams.
 
 ## Selected Engineering Experience
