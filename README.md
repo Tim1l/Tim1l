@@ -43,7 +43,7 @@ My conversational AI work includes defining model behavior, refining system inst
 
 For business automation, I translate an operator's recurring work into connected services: collect the information, apply the business rules, give clients access to what they need, and provide administrators with operational controls.
 
-My generative-media work covers image LoRA training and data curation, photo generation and editing, short-video refinement, voice and audio, and GPU deployment. I own technical and creative decisions, output review, and integration.
+My generative-media work covers end-to-end image, video, and audio production: model and workflow selection, image LoRA training and data curation, generation, editing, quality review, and delivery. I maintain a curated selection of models and workflows and own technical and creative decisions, GPU deployment, and integration.
 
 </details>
 
