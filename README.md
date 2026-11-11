@@ -1,18 +1,26 @@
-![Tim Izmailov — AI and ML engineering, LLM systems, automation, and quant research](images/profile-cover.svg)
+![Tim Izmailov — CTO, AI and ML engineering, LLM systems, automation, and quant research](images/profile-cover.svg)
 
 # Tim Izmailov
 
-**AI/ML Engineer · Quant Researcher · Python Developer**
+**CTO · AI/ML Engineer · Quant Researcher**
 
-I build AI products, automate business operations, and develop software for quantitative research. My work connects models, data, integrations, and the practical requirements of running a product.
+I lead AI product engineering, automate business operations, and develop software for quantitative research. My work connects technical strategy, hands-on implementation, models, data, and the practical requirements of running a product.
 
 My background combines nuclear physics, data science, and ten years of hands-on trading experience, from Forex to cryptocurrency markets. I work with product teams, business operators, and trading teams on clearly defined engineering and research problems.
 
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-green?logo=upwork&style=for-the-badge)](https://www.upwork.com/freelancers/~01d554f7011bd884f2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tim-izmailov-a53524283/) [![X](https://img.shields.io/badge/X-Follow-black?logo=x&style=for-the-badge)](https://x.com/tim13l)
 
+## CTO — Confidential AI Product (NDA)
+
+Technical leadership and hands-on AI engineering for a product with a **design target of 5 million monthly active users (MAU)**.
+
+- **Technical direction:** lead AI engineering priorities and delivery, with sole responsibility for the product's AI components.
+- **AI capabilities:** personally built components covering conversational behavior, memory, multilingual interactions, and image, video, and voice generation.
+- **GPU and inference engineering:** own model selection and GPU deployment decisions, balancing quality, response latency, resource requirements, and operating cost.
+- **Quality and integration:** established evaluation with human testers and AI agents and coordinated integration with backend and design teams.
+
 ## Selected Engineering Experience
 
-- **AI product engineering:** sole responsibility for AI engineering on a confidential product with a **design target of 5 million monthly active users (MAU)**.
 - **Business automation:** completed prepaid and postpaid systems covering client account information, calculations, notifications, and administrator workflows.
 - **Client trading software:** paid development of a bot for S&P 500 mini and micro futures.
 - **Systematic trading:** historical team experience developing automated trading systems for a portfolio of approximately **$330,000**.

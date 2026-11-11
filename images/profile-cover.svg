@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480" role="img" aria-labelledby="title description">
-  <title id="title">Tim Izmailov — AI and ML Engineer, Quant Researcher</title>
+  <title id="title">Tim Izmailov — CTO, AI and ML Engineer, Quant Researcher</title>
   <desc id="description">Personal portfolio cover with abstract geometry representing models, data, and creative engineering.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -25,7 +25,7 @@
     <rect x="80" y="65" width="5" height="23" rx="2.5" fill="#7be5d0"/>
     <text x="104" y="83" fill="#aac7cd" font-size="18" letter-spacing="3">MODELS. DATA. WORKING PRODUCTS.</text>
     <text x="76" y="201" fill="#f0f7fa" font-size="78" font-weight="700" letter-spacing="-2">TIM IZMAILOV</text>
-    <text x="82" y="257" fill="#85dfd3" font-size="27" letter-spacing="1">AI/ML ENGINEER · QUANT RESEARCHER</text>
+    <text x="82" y="257" fill="#85dfd3" font-size="27" letter-spacing="1">CTO · AI/ML ENGINEER · QUANT RESEARCHER</text>
     <text x="82" y="310" fill="#adc2cc" font-size="23">From scientific thinking to practical engineering.</text>
     <g fill="#102b34" stroke="#355b66">
       <rect x="80" y="360" width="186" height="46" rx="12"/>
