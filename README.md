@@ -1,119 +1,83 @@
-<!-- Waving Hand GIF for dynamic intro -->
-![Waving](rl_trading.gif) 
+![Tim Izmailov — AI and ML engineering, LLM systems, automation, and quant research](images/profile-cover.svg)
 
-# 👋 Tim Izmailov – Quant Data Scientist
+# Tim Izmailov
 
-Passionate data scientist with a nuclear physics background, transitioned into building cutting-edge AI-driven trading systems and generative AI solutions. Developed a high-performance RL trading agent (EV >0.72), a BTC trend predictor (68% accuracy in the trend prediction), and over 500 PineScript strategies, alongside managed portfolio with 25-30% annual returns across last 3 years. Ready to deliver scalable, high-impact AI solutions for quant funds and innovative projects. 🚀
+**AI/ML Engineer · Quant Researcher · Python Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tim-izmailov-a53524283/) [![X](https://img.shields.io/badge/X-Follow-black?logo=x&style=for-the-badge)](https://x.com/tim13l) [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-green?logo=upwork&style=for-the-badge)](https://www.upwork.com/freelancers/~01d554f7011bd884f2) 
+I build AI products, automate business operations, and develop software for quantitative research. My work connects models, data, integrations, and the practical requirements of running a product.
 
-## 🚀 Featured Projects
-Star/fork these – sponsors get exclusive models & updates. Hire me on Upwork for custom versions!
+My background combines nuclear physics, data science, and ten years of hands-on trading experience, from Forex to cryptocurrency markets. I work with product teams, business operators, and trading teams on clearly defined engineering and research problems.
+
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-green?logo=upwork&style=for-the-badge)](https://www.upwork.com/freelancers/~01d554f7011bd884f2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tim-izmailov-a53524283/) [![X](https://img.shields.io/badge/X-Follow-black?logo=x&style=for-the-badge)](https://x.com/tim13l)
+
+## Selected Engineering Experience
+
+- **AI product engineering:** sole responsibility for AI engineering on a confidential product with a **design target of 5 million monthly active users (MAU)**.
+- **Business automation:** completed prepaid and postpaid systems covering client account information, calculations, notifications, and administrator workflows.
+- **Client trading software:** paid development of a bot for S&P 500 mini and micro futures.
+- **Systematic trading:** historical team experience developing automated trading systems for a portfolio of approximately **$330,000**.
+
+## Featured Work
+
+| Project | What it covers |
+| --- | --- |
+| [LLM Systems Engineering](https://github.com/Tim1l/llm-engineering) | Model selection, behavior, memory and context, multilingual quality, evaluation, and inference performance |
+| [Business Automation](https://github.com/Tim1l/business-automation) | Python services, client and administrator interfaces, calculations, notifications, and data integration |
+| [Generative Media & GPU Workflows](https://github.com/Tim1l/generative-media) | Image LoRA, visual consistency, image-to-video, voice and audio, and GPU production workflows |
+| [Reinforcement Learning Research](https://github.com/Tim1l/rl-btc-trading-agent) | Applied RL research, experimentation, evaluation, and trading-system engineering |
+| [Financial Forecasting](https://github.com/Tim1l/crypto_btc_trend_prediction) | Production-deployed forecasting across multiple financial assets, with automated prediction delivery and monitoring |
+| [PineCryptoStrategies](https://github.com/Tim1l/PineCryptoStrategies) | TradingView strategies, indicators, and multi-timeframe chart tools |
 
 <details>
-<summary><b>RL Trading Agent for BTCUSDT (EV >0.72)</b> – High-Performance Reinforcement Learning</summary>
+<summary><b>AI products and operational systems</b></summary>
 
-**Overview**  
-Developed a sophisticated PPO-based reinforcement learning agent for BTC/USD trading on a 15-minute timeframe, leveraging a custom Gym environment with a proprietary reward function. Integrates 80+ high-signal entry points (TP(ATR)=SL(ATR), win rate >60% in backtests) derived from multi-timeframe market patterns (M15, H1, H4, D1).
+My conversational AI work includes defining model behavior, refining system instructions, working with memory and multilingual interactions, comparing suitable models, and evaluating quality with people and agents. I also configure and optimize self-hosted inference around GPU and response-time constraints.
 
-**Key Features**  
-- **Advanced Architecture**: Utilizes a TCN feature extractor (64-256 channels, dilations [1,2,4,8], kernel=10) with action masking for trade compliance.  
-- **Performance**: Achieves robust profitability from epoch 1 (32% profit at 10% drawdown in bullish phases).  
-- **Scalability**: Optimized for any crypto exchange or MT5 broker without slippage for large enough portfolio.  
+For business automation, I translate an operator's recurring work into connected services: collect the information, apply the business rules, give clients access to what they need, and provide administrators with operational controls.
 
-**Tech Stack**  
-- Python, PyTorch, Stable-Baselines3  
-- Custom TCN, Pandas, NumPy, TA-Lib
-- Bybit/MT5 APIs for real-time execution  
+My generative-media work covers image LoRA training and data curation, photo generation and editing, short-video refinement, voice and audio, and GPU deployment. I own technical and creative decisions, output review, and integration.
 
-**Links**  
-- *Repo*: [RL BTC Trading Agent](https://github.com/Tim1l/rl-btc-trading-agent)  
-- *Monetization*: Contact me to customize this agent for your fund’s trading strategy.  
 </details>
 
 <details>
-<summary><b>BTC Trend Predictor (68% Accuracy, 0.67 F-Score)</b> – Real-Time Multi-Timeframe Forecasts</summary>
+<summary><b>Quantitative research and trading software</b></summary>
 
-**Overview**  
-Built a hybrid TCN-LSTM model with MultiHead Attention for predicting the next candle’s direction across 4h, 1d, and 1w timeframes. Achieves 67-68% accuracy and 0.67 F-score on out-of-sample data, surpassing random baselines by 16-18%, with streaks of 95+ correct predictions.
+My work spans reinforcement learning, financial forecasting, market-data collection, research tools, and trading automation. My engineering focus includes data quality, walk-forward and out-of-sample evaluation, execution assumptions, monitoring, and repeatable research workflows.
 
-**Key Features**  
-- **Robust Predictions**: Processes high-frequency OHLCV data via CCXT, computing 20 technical indicators (RSI, MACD, Bollinger Bands).  
-- **Data Pipeline**: Applies log1p and tanh normalization with rigorous NaN/gap detection and forward-filling for stability.  
-- **Deployment**: Runs 24/7, delivering consistent real-time forecasts for multi-timeframe trading.  
+Ten years of manual trading provide market context alongside my software and modeling experience. I am interested in quantitative research roles and contracts that combine research with practical implementation.
 
-**Tech Stack**  
-- Python, TensorFlow, Keras-TCN  
-- Pandas, TA-Lib, CCXT  
-
-**Links**  
-- *Repo*: [Crypto BTC Trend Prediction](https://github.com/Tim1l/crypto_btc_trend_prediction) (currently private)  
-- *Engage*: Follow my [X profile](https://x.com/tim13l) for live prediction updates or sponsor for access to the full dataset.  
 </details>
+
+## Technical Strengths
+
+| Area | Tools and focus |
+| --- | --- |
+| Software and automation | Python, PostgreSQL, API integration, Telegram services, Linux deployment |
+| Machine learning | PyTorch, TensorFlow, Keras, time-series modeling, reinforcement learning, evaluation |
+| LLM systems | Model selection, prompt engineering, conversational behavior, memory, multilingual evaluation, self-hosted inference |
+| Generative media | Image LoRA, dataset preparation, image editing, video, voice, audio, and GPU workflows |
+| Data engineering | Collection pipelines, quality checks, monitoring, and recovery from source or service failures |
+| Trading software | Pine Script, Python trading tools, market-data integration, and research infrastructure |
+
+## Work With Me
+
+- **Build or improve an AI product:** LLM behavior, model selection, evaluation, inference, and generative-media workflows.
+- **Automate recurring operations:** client portals, integrations, calculations, reporting, notifications, and administrative tools.
+- **Develop quant and data systems:** research software, forecasting components, data infrastructure, and trading automation.
+
+I am open to freelance contracts and quantitative research opportunities. A useful starting brief describes the current process or problem, the desired result, and the constraints that matter to your team.
+
+[Discuss a project on Upwork](https://www.upwork.com/freelancers/~01d554f7011bd884f2) · [Connect on LinkedIn](https://www.linkedin.com/in/tim-izmailov-a53524283/) · [X](https://x.com/tim13l)
+
+Selected work is presented at portfolio level. Client identities, working code, internal model configurations, and private datasets remain confidential.
 
 <details>
-<summary><b>PineScript Strategies (500+ Scripts)</b> – Multi-Timeframe TradingView Systems</summary>
+<summary>Trading animation</summary>
 
-**Overview**  
-Crafted 500+ PineScript v6 strategies for TradingView, focusing on multi-timeframe analysis (M15, H1, H4, D1) and market phase decomposition. Includes 80+ core strategies with win rates of 55-75% and sharpe ratio of 1.3-1.8.
+An illustrative animation from my trading-software portfolio.
 
-**Key Features**  
-- **Robust Design**: Utilizes RSI, Bollinger Bands, EMA, HMA, and ATR without curve-fitting for market adaptability.  
-- **Multi-Timeframe**: Combines M15 signals with H1/H4/D1 context for high-signal entries.  
-- **Customization**: Ready to enhance any trading system with tailored, high-performance strategies.  
+![Trading-themed animation](rl_trading.gif)
 
-**Tech Stack**  
-- PineScript v6  
-
-**Links**  
-- *Repo*: [PineScript Strategies](https://github.com/Tim1l/PineCryptoStrategies)  
-- *Monetization*: Hire me on [Upwork](https://www.upwork.com/services/product/development-it-custom-pine-script-trading-strategy-automated-adjusted-for-profitability-1888093205491441659?ref=project_share) to develop or optimize your trading strategies.  
 </details>
 
-<details>
-<summary><b>Trading Bots Portfolio (50+ Scripts)</b> – Crypto Futures</summary>
-
-**Overview**  
-Designed and deployed 50+ trading bots for BTCUSDT futures, achieving 20-25% annual returns with 10% drawdown while managing a $330K portfolio. Focused on diverse, rigorously backtested trading strategies.
-
-**Key Features**  
-- **Performance**: Delivered consistent returns through automated systems optimized for crypto futures.  
-- **Backtesting**: Employed rigorous testing to ensure strategy robustness across market conditions.  
-- **Experience**: Demonstrates deep expertise in building and managing high-stakes trading systems.  
-
-**Tech Stack**  
-- TSLab, Backtrader  
-
-**Details**  
-- Showcases my experience in developing and managing automated trading systems for crypto futures.  
-</details>
-
-## 🛠️ Skills Stack
-A comprehensive set of technical and interpersonal skills honed through advanced AI-driven trading systems, data engineering, and generative AI projects, underpinned by a nuclear physics background that drives analytical precision and problem-solving.
-
-| Category          | Tools & Expertise                                                                 |
-|-------------------|----------------------------------------------------------------------------------|
-| **AI/ML**         | - **Frameworks**: Proficient in PyTorch, TensorFlow, Keras and Stable-Baselines3 for building and optimizing neural networks and reinforcement learning models. <br> - **Architectures**: Expertise in designing hybrid TCN-LSTM-CNN models with MultiHead Attention and custom feature extractors for time-series prediction. <br> - **Reinforcement Learning**: Advanced PPO implementation with action masking, custom reward shaping, and gradient hooks for stability. <br> - **Model Optimization**: Skilled in dataset preparation, hyperparameter tuning, layer normalization, and optimization to mitigate overfitting and ensure robust performance. <br> - **Predictive Modeling**: Developed models achieving high accuracy and F-scores for financial forecasting. |
-| **Trading Systems** | - **Strategy Development**: Expert in crafting robust trading strategies using python, PineScript or TSLAB, with multi-timeframe analysis (M15, H1, H4, D1) and market phase decomposition. <br> - **Automation**: Proficient in Pinescript, TSLab and Backtrader for building automated trading bots, with rigorous backtesting for performance validation. <br> - **API Integration**: Seamless integration with any crypto exchange and MT5 APIs for low-latency execution and real-time market data processing. <br> - **Risk Management**: Skilled in designing systems with dynamic TP/SL and low drawdown strategies for high-stakes environments. <br> - **Market Analysis**: Deep understanding of market phases, technical indicators and multi-timeframe analysis. |
-| **Data Engineering** | - **Data Processing**: Advanced proficiency in Pandas, NumPy and Matplotlib for handling high-frequency financial datasets. <br> - **Feature Engineering**: Expertise in computing technical indicators using TA-Lib and implementing robust normalization. <br> - **Time-Series**: Skilled in multi-timeframe data preprocessing, imputation, and quality checks for stable model inputs. <br> - **Data Pipelines**: Built scalable pipelines for real-time OHLCV data fetching and processing. <br> -  **Performance Optimization**: Optimized data workflows for high-throughput environments, achieving high FPS on GPUs across parallel environments. |
-| **Generative AI** | - **Leadership**: CTO at FlirtAGPT, driving the development of innovative AI products for conversational and creative applications. <br> - **Model Design**: Experienced in building and deploying generative AI models, leveraging deep learning frameworks for scalable solutions. <br> - **Product Development**: Skilled in end-to-end AI product lifecycle, from ideation to production deployment, with a focus on user-centric outcomes. <br> - **Innovation**: Applied cross-disciplinary insights from trading and physics to create novel generative AI use cases. |
-| **Soft Skills**    | - **Analytical Thinking**: Leveraged nuclear physics background to tackle complex problems with precision and rigor. <br> - **Problem-Solving**: Developed innovative solutions for trading and AI challenges, balancing performance and scalability. <br> - **Communication**: Effectively translate technical concepts to stakeholders, as demonstrated in client engagements on Upwork and X posts. <br> - **Adaptability**: Successfully transitioned from nuclear physics to data science, mastering diverse tech stacks and domains. <br> - **Collaboration**: Open to partnerships with quant funds and startups, with a track record of delivering tailored solutions. |
-
-## 📊 Career Timeline
-My journey from nuclear physics to data science, building innovative AI-driven trading systems and generative AI solutions:
-
-- **2021**: Developed first predictive model for gold trend forecasting and built initial forex trading bot, laying the foundation for automated trading systems.  
-- **2022–2023**: Created and managed a TSLab portfolio with 50+ unique algorithms, focusing on crypto futures and rigorous backtesting for performance.  
-- **2023–2024**: Designed hundreds of PineScript v6 strategies for TradingView and advanced predictive models, emphasizing multi-timeframe analysis and robust forecasting.  
-- **2025**: Engineered a high-performance RL trading agent and a state-of-the-art predictive model, deployed in real-time for BTCUSDT trading.  
-
-## 🤝 Connect & Collaborate
-I’m passionate about building cutting-edge AI trading systems and generative AI solutions. Let’s create value together!
-
-- **Quant Funds & Startups**: Partner with me to develop scalable, high-impact trading algorithms and AI models. DM on [LinkedIn](https://www.linkedin.com/in/tim-izmailov-a53524283/) or [X](https://x.com/tim13l).  
-- **Custom Solutions**: Hire me on [Upwork](https://www.upwork.com/freelancers/~01d554f7011bd884f2) for tailored RL agents, predictive models, or trading strategies.  
-- **Sponsorship**: Gain early access to exclusive models and datasets – [Sponsor Now](https://github.com/sponsors/Tim1l).  
-
-Star my repos to stay updated on the latest AI trading innovations! 🚀  
-![BTC Predictor](https://img.shields.io/badge/BTC%20Predictor-68%25%20Accuracy%20%7C%200.67%20F--Score-green?style=for-the-badge) ![RL Agent](https://img.shields.io/badge/RL%20Agent-EV%200.72%20%7C%2032%25%20Profit-blue?style=for-the-badge)
 [![Sponsor Me](https://img.shields.io/badge/Sponsor-Me-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Tim1l)
