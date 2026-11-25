@@ -1,6 +1,6 @@
 # Tim Izmailov
 
-**CTO · AI/ML Architect & Engineer · Quant Researcher**
+**AI/ML Architect & Engineer · Quant Researcher**
 
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-green?logo=upwork&style=for-the-badge)](https://www.upwork.com/freelancers/~01d554f7011bd884f2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tim-izmailov-a53524283/) [![X](https://img.shields.io/badge/X-Follow-black?logo=x&style=for-the-badge)](https://x.com/tim13l)
 
